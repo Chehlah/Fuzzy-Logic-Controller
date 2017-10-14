@@ -1,6 +1,6 @@
 /*
 	Topic : Fuzzy logic control (Homework, Study case)
-	Auther : Aufa Ch.
+	Author : Aufa Ch.
 	Last edit: 10/14/2017 (mm/dd/yy)
 	****************************************************
 	File input:
