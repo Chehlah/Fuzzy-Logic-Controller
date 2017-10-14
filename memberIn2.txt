@@ -1,0 +1,7 @@
+6
+-2.0  -1.3   NL NULL  	
+-1.3  -0.5   NL NM 
+-0.5   0     NM ZE 
+0      0.5   ZE PM 
+0.5    1.3   PM PL
+1.3    2.0   PL NULL
